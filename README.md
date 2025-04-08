@@ -21,21 +21,23 @@ This is a responsive and modern To-Do List Application built with **React**, fea
 - Logout functionality with session reset
 - Protected routes (To-Do list hidden from non-authenticated users)
 
-Signin page
+                                 Signin page
+
 ![image](https://github.com/user-attachments/assets/dc42f0c0-4ca8-45f9-9d98-c519d31188d1)
 
-Login page
+                                Login page
+                                
 ![image](https://github.com/user-attachments/assets/0af47c93-e352-4d27-b574-3f5be16b92a7)
 
-after login user will be able to add tasks
+                  after login user will be able to add,delete,edit tasks
+                  
 ![image](https://github.com/user-attachments/assets/dcea909e-858f-4998-ae4f-85e88cad5f12)
-
 
 ---
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/my-todo-app.git
